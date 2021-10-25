@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Ryas-Yusenda&color=red&label=views)
+![](https://komarev.com/ghpvc/?username=Ryas-Yusenda&color=red&label=Visitor)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryas-Yusenda&hide=TeX&layout=compact)
 
 
 <!--
