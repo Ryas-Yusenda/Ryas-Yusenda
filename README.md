@@ -1,23 +1,22 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Ryas-Yusenda&color=red&label=Visitor)
+# Hi 👋, I'm Ryas Yusenda
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryas-Yusenda&hide=TeX&layout=compact)
+Welcome to my GitHub profile! 🚀  
+I’m passionate about **software development, open-source, and building useful tools**.  
+This profile is where I share my projects, experiments, and learning journey.
 
-**Ryas-Yusenda/Ryas-Yusenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-[![](https://img.shields.io/github/followers/Ryas-Yusenda?style=social)](https://github.com/Ryas-Yusenda/Python)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryas-Yusenda&show_icons=true&theme=gotham&bg_color=ffffff00&cache_seconds=86400" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryas-Yusenda&layout=compact&theme=gotham&bg_color=ffffff00&cache_seconds=86400" />
+</div>
 
-[![](https://img.shields.io/github/stars/Ryas-Yusenda?style=social)](https://github.com/Ryas-Yusenda/Python)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ _“Code is not just about solving problems, it’s about creating possibilities.”_
+<br/>
+![](https://komarev.com/ghpvc/?username=Ryas-Yusenda&color=FF6B6B&label=:)
