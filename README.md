@@ -9,10 +9,10 @@ This profile is where I share my projects, experiments, and learning journey.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryas-Yusenda&show_icons=true&theme=gotham&bg_color=ffffff00&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryas-Yusenda&show_icons=true&theme=one_dark_pro&bg_color=ffffff00&cache_seconds=86400" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryas-Yusenda&layout=compact&theme=gotham&bg_color=ffffff00&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryas-Yusenda&layout=compact&theme=one_dark_pro&bg_color=ffffff00&cache_seconds=86400" />
 </div>
 
 ---
